@@ -1,6 +1,6 @@
 # Eternal Bloom
 
-Live: https://perfume-website-six-theta.vercel.app
+Live: https://eternal-bloom-demo.vercel.app/
 
 A scroll-driven perfume product page. The bottle is an SVG illustration that pans and zooms as you scroll through each section of the fragrance story.
 
